@@ -1,2 +1,23 @@
 
-// Write your code here
+const num1 = 31;
+const num2 = 2;
+const multiply = num1 * num2;
+
+i cannot figure this one out :/
+
+const num3 = 10;
+const num4 = 6;
+const mod = num3 % num4;
+
+const max = 20;
+
+module.exports = {
+  num1,
+  num2,
+  multiply,
+  random,
+  num3,
+  num4,
+  mod,
+  max
+};
